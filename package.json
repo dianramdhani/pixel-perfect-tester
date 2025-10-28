@@ -1,0 +1,20 @@
+{
+  "name": "pixel-perfect-tester",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "puppeteer": "^24.26.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/pngjs": "^6.0.5",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
