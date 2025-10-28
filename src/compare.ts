@@ -30,7 +30,7 @@ export async function compareImages(
     baseline.width,
     baseline.height,
     {
-      threshold: 0.1,
+      threshold: 0.2,
       includeAA: true,
       alpha: 0.8,
       diffColor: [255, 0, 0], // 🔴 merah untuk pixel yang hilang (baseline)

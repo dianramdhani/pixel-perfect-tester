@@ -1,2 +1,4 @@
 node_modules/
 output/
+baseline/
+!baseline/dashboard.png

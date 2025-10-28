@@ -23,7 +23,7 @@ async function main() {
 ✅ Match: ${result.match}
 🧮 Diff Pixels: ${result.diffPixelCount}
 📊 Diff Percentage: ${result.diffPercentage.toFixed(3)}%
-🖼️ Diff Image: ${result.diffPath}
+🖼️  Diff Image: ${result.diffPath}
 📄 Report: output/report.json
   `);
 }

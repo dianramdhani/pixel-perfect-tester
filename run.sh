@@ -1,1 +1,2 @@
 yarn start "http://localhost:6006/iframe.html?args=&globals=&id=components-mainlayout--default&viewMode=story" "./baseline/dashboard.png"
+# yarn start "http://localhost:6006/iframe.html?args=&globals=&id=components-authlayout--default&viewMode=story" "./baseline/login.png"
